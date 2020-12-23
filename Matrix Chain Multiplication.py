@@ -35,7 +35,7 @@ def MatrixChainMulti(grid,dimensions,P):
 
 print("m[i,j] = m[i,k]+m[k+1,j]+P[i-1]*P[k]*P[j]")
 print("")
-P = [30,35,15,5]
+P = []
 
 dimensions = len(P)
 
