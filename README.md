@@ -1,4 +1,10 @@
 # Matrix-Chain-Multiplication-Calc
+
+========================================
+* PLEASE VIEW THIS READ ME IN RAW FORM *
+========================================
+
+
 This is calculator was programmed using Python and it follows a dynamic programming approach.
 When run, the program displays:
   1) All calcualtions for the specific space m[i,j] and their corresponding k value
